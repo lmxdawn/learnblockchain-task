@@ -12,4 +12,4 @@ https://goerli.etherscan.io/tx/0x00529a429eaa2ce838750f2aafe313c3c2d701f3cf1d9aa
 
 # 截图
 
-![img.png](img.png)
+![img_1.png](img_1.png)
